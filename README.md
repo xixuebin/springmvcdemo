@@ -9,4 +9,7 @@ you can import to Intellij IDEA.
 
 运行使用的tomcat
 
+参考文章[http://blog.mn886.net/chenjianhua/show/5919fd5ab76349739d861faddeb8b913/index.html:文章]集成
+spring security 模块
+
 
